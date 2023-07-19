@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602291992925",
+    "project_id": "docket-c2674",
+    "storage_bucket": "docket-c2674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602291992925:android:c12085354dd72c9209d0b4",
+        "android_client_info": {
+          "package_name": "com.app.docket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602291992925-l977rk49uocsit6g0vva4ote3vl891f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhDK0yWKu5hqRVMPFi-x1xgB7Ni3b-K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602291992925-l977rk49uocsit6g0vva4ote3vl891f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
